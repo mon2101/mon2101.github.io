@@ -1,0 +1,59 @@
+.jedan {
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    color: white;
+    justify-content: space-around; 
+    padding-left: 30px;
+    padding-right: 30px;       
+}
+
+body {
+    background-color: black;
+}
+
+.aboutiprojects {
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+
+} 
+
+.monika {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    text-decoration-line: none;
+}
+
+.logo {
+    font-size: small;
+    color: rgb(189, 189, 189);
+}
+
+
+.dva {
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+    align-items: center;
+    padding-top: 30px;
+}  
+
+.textabout {
+    display: flex;
+    flex-direction: column;
+}
+a:visited {
+        color: rgb(162, 162, 160);
+        text-decoration-line: none;
+}
+
+a:link {
+    text-decoration: none;
+  }
+
+    
+
+
