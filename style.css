@@ -1,7 +1,7 @@
 .jedan {
     display: flex;
     flex-direction: row;
-    background-color: black;
+    background-color: rgb(92, 97, 96);
     color: white;
     justify-content: space-around; 
     padding-left: 30px;
@@ -11,7 +11,10 @@
 }
 
 body {
-    background-color: black;
+    background-color: rgb(92, 97, 96);
+    font-family: 'Lobster Two', cursive;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Philosopher', sans-serif;
 }
 
 .aboutiprojects {
@@ -37,7 +40,7 @@ body {
 .dva {
     display: flex;
     flex-direction: column;
-    background-color: black;
+    background-color: rgb(92, 97, 96);
     color: white;
     align-items: center;
     padding-top: 30px;
@@ -59,4 +62,8 @@ a:link {
 
 body {
     padding-top: 20px;
+}
+
+.sve {
+    font-size: large;
 }
